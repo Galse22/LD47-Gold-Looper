@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fa5f8a897924a45a6e3ff95231fe42, type: 3}
+  m_Name: Bow
+  m_EditorClassIdentifier: 
+  bulletDestructionTime: 10
+  cooldownBtwFire: 0.3
+  bullet: {fileID: 2245375835698345223, guid: a1870dee74a6aeb4d9ba4b14ef02e304, type: 3}
+  bulletForce: 10
+  soundShoot: {fileID: 1239239122174538006, guid: cf9bc18ddde7b0a47980d1d740ffb49a,
+    type: 3}
